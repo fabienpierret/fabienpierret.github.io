@@ -91,6 +91,14 @@ Built and orchestrated complex ML/data engineering systems from scratch:
 
 **Technologies**: Python, Web Scraping, Data Parsing, JSON
 
+#### **SQL ETL Pipeline** - Production ETL System
+- **Built** production-ready ETL pipeline with Extract, Transform, Load workflow
+- **Implemented** SQL transformations (CTEs, window functions, aggregations)
+- **Developed** data validation framework with schema and quality checks
+- **Architecture**: Modular design, error handling, logging, retry logic
+
+**Technologies**: Python, SQL, SQLAlchemy, Pandas, Pydantic, ETL Pipeline
+
 ---
 
 ### **Customer Service & Administrative Coordinator**
@@ -144,6 +152,10 @@ Real-time poker analysis system with computer vision and GTO solver.
 ### **Titan DeFi**
 Blockchain scanner and flash-loan simulator for Solana.  
 **GitHub**: github.com/fabienpierret/titan-defi | **Portfolio**: fabienpierret.github.io/projects/titan
+
+### **SQL ETL Pipeline**
+Production-ready SQL ETL pipeline with data validation, transformation, and loading. Demonstrates SQL proficiency and ETL best practices.  
+**GitHub**: github.com/fabienpierret/sql-etl-pipeline | **Portfolio**: fabienpierret.github.io
 
 ---
 
